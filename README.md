@@ -4,4 +4,8 @@ The study conducts an exploratory analysis on Violent and Sexual Crime rates-VSC
 
 The analyis produces a table for the top municipalities with the highest VSC rates and a thematic map of the Netherlands displaying the municipilaties and coloring them based on thier crime rates to make comparison among them. 
 
+
+
+<img align="left" width="400" height="256" src="Images/NL_crime_rates.png">
+
 To be continued..
