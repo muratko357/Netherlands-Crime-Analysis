@@ -6,6 +6,6 @@ The analyis produces a table for the top municipalities with the highest VSC rat
 
 
 
-<img align="left" width="400" height="256" src="Images/NL_crime_rates.png">
+<img align="left" width="400" height="256" src="/muratko357.github.io/tree/main/Images/NL_crime_rates.png">
 
 To be continued..
