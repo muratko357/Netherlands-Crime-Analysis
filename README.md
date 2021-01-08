@@ -7,4 +7,4 @@ The study produces a table for the top municipalities with the highest VSC rates
 
 <img align="left" width="650" height="600" src="/Images/NL_crime_rates.png"> 
 
-<img align="right" width="1000" height="1050" src="/Images/NL_crime_rates_interactive_map.png">
+<img align="right" width="1400" height="1050" src="/Images/NL_crime_rates_interactive_map.png">
