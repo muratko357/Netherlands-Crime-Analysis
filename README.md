@@ -5,12 +5,4 @@ The study conducts an exploratory analysis on Violent and Sexual Crime rates-VSC
 The study produces a table for the top municipalities with the highest VSC rates and generates a static choropleth map of the Netherlands as well as an interactive version of the map using the crime data. While both maps display the boundaries of municipilaties and their colors indicating their crime rates, the interactive map displays municipalities and their actual numbers of crime rates when one moves the mouse on the map.
 
 
-<img align="left" width="786" height="422" src="/Images/NL_crime_rates.png">
-
-
-
-<img align="left" width="786" height="786" src="/Images/NL_crime_rates_interactive_map.png">
-
-
-
-
+<img align="left" width="700" height="550" src="/Images/NL_crime_rates.png"> <img align="right" width="650" height="750" src="/Images/NL_crime_rates_interactive_map.png">
