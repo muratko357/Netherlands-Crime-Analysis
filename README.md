@@ -8,4 +8,4 @@ The study consists of two parts in two levels, namely country and city levels. [
 
 <img align="left" width="650" height="500" src="/Images/NL_crime_rates.png"> 
 
-<img align="right" width="650" height="500" src="/Images/Amsterdam_crime_map.png">
+<img align="center" width="650" height="500" src="/Images/Amsterdam_crime_map.png">
