@@ -1,14 +1,8 @@
-# Netherlands Crime Analysis: Violent and Sexual Crime 2018
+# Crime Analysis: Density of Violent and Sexual Crime in the Netherlands and Amsterdam, 2018
 
-The study conducts an exploratory analysis on Violent and Sexual Crime rates-VSC (per 1000 inhabitants) in the Netherlands. The data is sourced from the *Centraal Bureau voor de Statistiek* (The Hague / Heerlen) under the name of "Registered crimes: districts and neighborhoods 2018 and can be accessed from https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84468NED/table. The study consists of two parts in two levels, namely country and city levels. 
+The study conducts an exploratory analysis on Violent and Sexual Crime-VSC in the Netherlands, at two levels, namely across 380 municipalities of [the country](https://github.com/muratko357/Netherlands-Crime-Analysis/blob/main/NL_Crime_rates_by_municipality.ipynb) and across neighborhoods of [the Amsterdam city](https://github.com/muratko357/Netherlands-Crime-Analysis/blob/main/Crime_by_neighborhood_Amsterdam.ipynb). The analysis reveals the top municipalities with the highest VSC rates per 1000 inhabitants as well as the top neighborhoods with the highest number of police records of VSC in Amsterdam. In each level, the study has produced a static choropleth map and an interactive version of it based on the data analysis. While the static maps display the administrative boundaries of the places and their colors representing their crime density, the interactive maps additionally display names of these places and numbers associated with the VSC when one moves the mouse across one of these maps.
 
-**[Country Level:](https://github.com/muratko357/Netherlands-Crime-Analysis/blob/main/NL_Crime_rates_by_municipality.ipynb)**
-
-In the first part, the study examines the density of the crime rates across municipalities of the Netherlands. The data displays 380 municipalities by 2018. The analysis reveals the top municipalities with the highest VSC rates per 1000 inhabitants. As an output of the study, two maps have been generated: A static choropleth map of the Netherlands an interactive version of it based on the calculation of the crime rates. While both maps display the boundaries of municipilaties and their colors repsenting their crime rates, the interactive map additionally displays names of the municipalities and their individual crime rates when one moves the mouse across the map.
-
-**[City Level - Amsterdam:](https://github.com/muratko357/Netherlands-Crime-Analysis/blob/main/Crime_by_neighborhood_Amsterdam.ipynb)**
-
-In the second part, the study further explores the crime density across neighborhoods of Amsterdam as it has the highest crime rate for VSC, according to the analysis of the first part. Likewise, the analysis, along with tables, has produced two maps, one static and one interactive map. They clearly display that the number of crime records for VSC varies across neighborhoods of Amsterdam, but a few of them step forward with the highest number of police records in this type of crime. 
+The data used in this study is sourced from the *Centraal Bureau voor de Statistiek* (The Hague / Heerlen) under the name of "Registered crimes: districts and neighborhoods 2018 and can be accessed from https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84468NED/table.  
 
 <img align="left" width="650" height="500" src="/Images/NL_crime_rates.png"> 
 
