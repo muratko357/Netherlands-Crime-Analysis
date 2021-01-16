@@ -5,7 +5,8 @@ The study conducts an exploratory analysis on Violent and Sexual Crime-VSC in th
 The data used in this study is sourced from the *Centraal Bureau voor de Statistiek* (The Hague / Heerlen) under the name of "Registered crimes: districts and neighborhoods 2018 and can be accessed from https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84468NED/table.  
 
 *Top 10 municipalities with the hightes crime rates:*
-<img align="left" width="350" height="200" src="/Images/table for crime rate by municipality.png">
+
+<img align="left" width="400" height="250" src="/Images/table for crime rate by municipality.png">
 
 <img align="left" width="650" height="500" src="/Images/NL_crime_rates.png"> 
 
