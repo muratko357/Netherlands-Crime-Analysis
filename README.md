@@ -11,3 +11,6 @@ The data used in this study is sourced from the *Centraal Bureau voor de Statist
 <img align="left" width="800" height="650" src="/Images/NL_crime_rates.png"> 
 
 <img align="center" width="750" height="650" src="/Images/Amsterdam_crime_map.png">
+
+
+I have created another interactive map using Tableau with the same data that can be accessed from [here](https://public.tableau.com/profile/murat.kocak#!/vizhome/Netherlandscrimerateofviolentandsexualcrimebymunicipality/Netherlandsviolentandsexualcrimeratebymunicipality)
