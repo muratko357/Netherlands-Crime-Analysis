@@ -10,9 +10,9 @@ The data used in this study is sourced from the *Centraal Bureau voor de Statist
 
 *VSC rates by municipality in the Netherlands 2018*
 
-<img align="left" width="800" height="650" src="/Images/NL_crime_rates.png"> 
+<img align="left" width="900" height="650" src="/Images/NL_crime_rates.png"> 
 
 <img align="center" width="750" height="650" src="/Images/Amsterdam_crime_map.png">
 
 
-To see the interactive map created in Tableau (with the versions of (1) crime rate by municipality and (2) number of crime records by municipality), please visit [here](https://public.tableau.com/shared/DS58Y25XY?:display_count=n&:origin=viz_share_link)
+To see the interactive map created in Tableau (with the versions of (1) crime rate by municipality and (2) number of crime records by municipality), please visit [here](https://public.tableau.com/views/Netherlandscrimerateofviolentandsexualcrimebymunicipality/ViolentandSexualCrimeinNetherlands2018?:language=en-US&:display_count=n&:origin=viz_share_link)
